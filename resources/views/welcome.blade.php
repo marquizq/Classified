@@ -82,6 +82,8 @@
             <div class="content">
                 <div class="title m-b-md">
                     This is Awesome
+                    <br>
+                    <strong>Super Awesome I Like It!!</strong>
                 </div>
 
                 <div class="links">
