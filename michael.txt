@@ -1,4 +1,4 @@
-Well we are in Development phase
+Well we are in Development phase.
 Hello this is the developer
 
 This is master
