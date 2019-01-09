@@ -1,4 +1,4 @@
-Well we are in Development phase.
+The first build is about to be released.
 Hello this is the developer
 
 This is master
